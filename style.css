@@ -24,11 +24,6 @@ header {
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
-header ..logo {
-  height: 80px; /* Ajusta a altura da logo */
-  margin-right: 20px;
-}
-
 header h2 {
   font-size: 1.2rem;
   font-weight: bold;
